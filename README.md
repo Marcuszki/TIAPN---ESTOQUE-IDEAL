@@ -6,6 +6,8 @@
 
 `2º Semestre`
 
+`Visualização completa do sistema: https://www.youtube.com/watch?v=8Fl0npTLRlE`
+
 ## Integrantes
 
 * Arthur Nunes
